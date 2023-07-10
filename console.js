@@ -4,3 +4,5 @@ console.log("hellow world")
 fun main(){
   return null
 }
+main()
+console.log(main)
